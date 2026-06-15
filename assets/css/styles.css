@@ -11,8 +11,8 @@ html {
 
 h1 {
 	color: Navy;
-	font-size: 100px;
-	letter-spacing: 20px;
+	font-size: 50px;
+	letter-spacing: 10px;
 }
 
 div {transform: rotate(360deg);
