@@ -12,7 +12,7 @@ html {
 h1 {
 	color: Navy;
 	font-size: 50px;
-	letter-spacing: 10px;
+	letter-spacing: 1px;
 }
 
 div {transform: rotate(360deg);
