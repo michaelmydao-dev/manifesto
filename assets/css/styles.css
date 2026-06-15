@@ -5,17 +5,17 @@
 }
 
 html {
-	background-color: goldenrod;
-	background-image: linear-gradient(goldenrod, forestgreen);
+	background-color: Linen;
+	background-image: linear-gradient(linen, linen);
 }
 
 h1 {
-	color: red;
-	font-size: 220px;
+	color: Navy;
+	font-size: 100px;
 	letter-spacing: 20px;
 }
 
-div {transform: rotate(25deg);
+div {transform: rotate(360deg);
  }
 
 
